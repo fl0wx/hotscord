@@ -1,1 +1,2 @@
 # hotscord
+[![Go Report Card](https://goreportcard.com/badge/github.com/fl0wx/hotscord)](https://goreportcard.com/report/github.com/fl0wx/hotscord)  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fl0wx_hotscord&metric=alert_status)](https://sonarcloud.io/dashboard?id=fl0wx_hotscord) 
